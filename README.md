@@ -81,12 +81,12 @@ SalesFlow CRM is a centralized hub built to help sales teams manage contact info
    npm run dev
    ```
    - **Frontend:** [http://localhost:5173](http://localhost:5173)
-   - **Backend:** [http://localhost:5000](http://localhost:5000)
+   - **Backend:** [http://localhost:5000](http://localhost:5001)
 
 ## 🔑 Environment Variables
 The application requires the following variables in `server/.env`:
 ```env
-PORT=5000
+PORT=5001
 MONGODB_URI=mongodb://localhost:27017/crm_db
 JWT_SECRET=your_secure_secret_here
 NODE_ENV=development
