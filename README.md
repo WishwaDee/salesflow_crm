@@ -1,5 +1,8 @@
 # 🚀 SalesFlow CRM - Lead Management System
 
+**🔗 Live Demo:** [https://salesflow-o8o1y5tej-wishwas-projects-74c739a5.vercel.app/](https://salesflow-o8o1y5tej-wishwas-projects-74c739a5.vercel.app/)  
+**⚡ Vercel Deployment:** [https://salesflow-o8o1y5tej-wishwas-projects-74c739a5.vercel.app/](https://salesflow-o8o1y5tej-wishwas-projects-74c739a5.vercel.app/)
+
 A professional, high-performance Customer Relationship Management (CRM) system designed for small sales teams. This application streamlines lead tracking, pipeline management, and data visualization using the modern MERN stack.
 
 ---
